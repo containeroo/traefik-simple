@@ -1,5 +1,6 @@
 version: '3'
-  services:
+
+services:
     portainer:
       image: portainer/portainer:latest
       container_name: portainer
